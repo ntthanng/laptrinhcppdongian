@@ -2,11 +2,12 @@
 
 **Cách biên dịch và chạy chương trình C++ (tóm tắt):**
 
-* Viết mã vào file có đuôi `.cpp`, ví dụ `main.cpp`.
+* Viết mã vào file có đuôi `.cpp`, ví dụ `tên bài.cpp`.
+  * ví dụ trong đề ghi là `BAI1.CPP` thì đặt tên file như trong bài đặt sai = mất điểm nhé
 * Dùng trình biên dịch (compiler) như `g++`:
 
   * Biên dịch: `g++ -std=c++14 main.cpp -o main` (đối với Terminal)
-  * Chạy: `./main` (trên Windows: `main.exe`) (đối với Terminal)
+  * Chạy: `./main` (trên Windows: `main.exe`) (đối với Terminal)  
   * Chạy một dòng: `g++ -std=c++14 main.cpp -o main && ./main`
   * Lưu ý: khi tham gia các cuộc thi như học sinh giỏi của bộ giáo dục, thì khi chấm bài sẽ sử dụng phần mềm Themis để chấm và phiên bản chấm là C++ 14
 
