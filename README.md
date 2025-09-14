@@ -44,7 +44,7 @@ int main() {
 }
 ```
 
-### Lưu ý chuyên gia (đơn giản):
+### Lưu ý:
 
 * `#include <bits/stdc++.h>` cho phép dùng `cout` để in ra màn hình.
 * `return 0;` nghĩa là chương trình kết thúc thành công.
